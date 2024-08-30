@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class LibretaDeNotas {
 
-    public static void main(String[] args) {
+    public static void main (String[] args) {
         Scanner miScanner = new Scanner(System.in);
 
         //Utiliza un HashMap para almacenar las calificaciones de los estudiantes, donde la llave es el nombre del estudiante y el valor es un ArrayList de notas.
